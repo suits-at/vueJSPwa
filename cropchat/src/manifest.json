@@ -1,0 +1,16 @@
+{
+  "orientation": "portrait",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon_256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "name": "GTD",
+  "start_url": "/",
+  "description": "GTD - Getting things done application",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3"
+}
